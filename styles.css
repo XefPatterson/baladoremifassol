@@ -88,7 +88,7 @@ body {
 }
 
 .playlist-card:hover {
-    transform: translateY(-10px);
+    transform: translateY(-4px);
     background-color: #282828;
 }
 
