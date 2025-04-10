@@ -176,6 +176,10 @@ footer a:hover {
         font-size: 2.5rem;
     }
     
+    .hero h2 {
+        font-size: 1.5rem; /* Added to maintain proportion */
+    }
+    
     .playlist-grid {
         grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
     }
@@ -189,6 +193,10 @@ footer a:hover {
     
     .hero h1 {
         font-size: 2rem;
+    }
+    
+    .hero h2 {
+        font-size: 1.2rem; /* Added to maintain proportion */
     }
     
     .hero p {
